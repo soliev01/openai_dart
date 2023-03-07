@@ -1,6 +1,5 @@
 # Openai Dart
 
-[![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 [![Powered by Mason](https://img.shields.io/endpoint?url=https%3A%2F%2Ftinyurl.com%2Fmason-badge)](https://github.com/felangel/mason)
 [![License: MIT][license_badge]][license_link]
 
@@ -33,7 +32,7 @@ Out of the box, on each pull request and push, the CI `formats`, `lints`, and `t
 
 ---
 
-## Running Tests 🧪
+<!-- ## Running Tests 🧪
 
 To run all unit tests:
 
@@ -51,7 +50,7 @@ genhtml coverage/lcov.info -o coverage/
 
 # Open Coverage Report
 open coverage/index.html
-```
+``` -->
 
 [dart_install_link]: https://dart.dev/get-dart
 [github_actions_link]: https://docs.github.com/en/actions/learn-github-actions
